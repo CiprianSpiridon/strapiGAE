@@ -11,4 +11,4 @@
 ![Drag Racing](screenshots/4.png)
 6. Open `example-app.yaml` and rename it to `app.yaml`
 7. Update `app.yaml` with the right enviroment variables
-6. ```gcloud app deploy```
+6. Run ```gcloud app deploy```
