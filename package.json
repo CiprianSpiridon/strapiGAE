@@ -1,5 +1,5 @@
 {
-  "name": "strapi-gae",
+  "name": "strapi-gae-2",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -20,15 +20,13 @@
     "strapi-plugin-users-permissions": "3.0.5",
     "strapi-plugin-email": "3.0.5",
     "strapi-plugin-upload": "3.0.5",
-    "strapi-connector-bookshelf": "3.0.5",
-    "knex": "<0.20.0",
-    "sqlite3": "latest"
+    "strapi-connector-mongoose": "3.0.5"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "96832ccd-8731-46c5-97b1-392a8710673b"
+    "uuid": "c2fb92e3-7289-4ab2-b7a4-bd12b6042a3f"
   },
   "engines": {
     "node": ">=10.0.0",

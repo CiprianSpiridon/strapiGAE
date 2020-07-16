@@ -111,5 +111,3 @@ coverage
 exports
 .cache
 build
-
-app.yaml
