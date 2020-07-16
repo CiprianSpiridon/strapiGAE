@@ -6,3 +6,8 @@ env_variables:
   HOST: '0.0.0.0'
   NODE_ENV: 'production'
   PORT: 8080
+  DATABASE_HOST: 'cluster0-smjup.mongodb.net'
+  DATABASE_USERNAME: 'ciprian'
+  DATABASE_PASSWORD: '8JE0v88VuIgBBkyF'
+
+

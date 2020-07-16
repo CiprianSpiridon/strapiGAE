@@ -11,4 +11,10 @@
 ![Drag Racing](screenshots/4.png)
 6. Open `example-app.yaml` and rename it to `app.yaml`
 7. Update `app.yaml` with the right enviroment variables
-6. Run ```gcloud app deploy```
+8. Run ```gcloud app deploy app.yaml```
+9. Run ```gcloud app browse``` to open the deployed app in the browser
+
+
+Notes:
+- Run ```gcloud app logs tail -s default``` to watch logs
+
